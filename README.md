@@ -1,5 +1,5 @@
 # archlinux-i3-wm
-i3-wm config
+my i3-wm config
 
 Check config file and read more at: http://i3wm.org/docs/userguide.html
 
